@@ -1,0 +1,87 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Comic Sans;
+}
+
+body {
+	background-image: url('/home/fuego/Escritorio/Fuego/Codigos/Ahorcado/cactus2.jpg');
+}
+
+#Izq{
+	width: 35%;
+	height: 100vh;
+	background-color: transparent;
+	float: left;
+}
+
+#CajaPal{
+	width: 100%;
+	height: 25%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  	background-color: transparent;
+}
+
+#CajaIm{
+	width: 100%;
+	height: 75%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  	background-color: transparent;
+}
+
+#CajaBot{
+	width: 100%;
+	height: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  	background-color: transparent;
+}
+
+#CajaIcg{
+	width: 100%;
+	height: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  	background-color: transparent;
+}
+
+#Der {
+	width: 65%;
+	height: 100vh;
+	background-color: transparent;
+	float: left;
+}
+
+#botonEnviar {
+	width: 60px;
+	height: 24px;
+	border: 1px solid #000000;
+	padding: 5px;
+	font-size: 13px;
+	background-color: #707070;
+	color: #000000;
+	border-radius: 5px;
+}
+
+.botones{
+	width: 45px;
+	height: 60px;
+	border: 3px solid #000000;
+	padding: 5px;
+	margin: 2px;
+	font-size: 25px;
+	background-color: #707070;
+	color: #ffffff;
+	text-transform: uppercase;
+	border-radius: 20px;
+}
+
+#incognita{
+	font-size: 30px;
+}
